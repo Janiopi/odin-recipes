@@ -1,0 +1,17 @@
+.Description,.Title{
+    text-align: center;
+}
+
+#MainTitle{
+    color:green;
+    font-size: 100px;
+    margin-bottom: auto;
+}
+
+.Image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;
+
+}
